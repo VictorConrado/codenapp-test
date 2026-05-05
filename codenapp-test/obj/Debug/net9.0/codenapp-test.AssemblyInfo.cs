@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("codenapp-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5d8be244c1d33a0f936d4342f4bd854d487f04e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af0161f029e772e4110c78426a68e29c0313a565")]
 [assembly: System.Reflection.AssemblyProductAttribute("codenapp-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("codenapp-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

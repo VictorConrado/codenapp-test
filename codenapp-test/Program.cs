@@ -1,4 +1,5 @@
 ﻿using codenapp_test.Desafios.DesafioFibonacci;
+using codenapp_test.Desafios.DesafioNormalizadorDeTexto;
 using codenapp_test.Desafios.DesafioPalindromo;
 
 // Palíndromo 
@@ -15,6 +16,7 @@ foreach (var t in testes)
 
 // Fibonacci
 
+/*
 int[] testes = { 3, 5, 7 };
 
 foreach (int x in testes)
@@ -22,3 +24,23 @@ foreach (int x in testes)
     List<int> result = Fibonacci.CalculaFibonacci(x);
     Console.WriteLine($"Quando X = {x} o resultado é {string.Join(", ", result)}");
 }
+*/
+
+//Normalizador de Texto
+
+string[] entradas = [
+    "Como é???????",
+    "Não!!!!!!!!",
+    "O que???!!!!! Não acredito!!!"
+];
+
+Console.WriteLine("Normalizador de Texto:");
+
+foreach (var texto in entradas)
+{
+    string resultado = NormalizadorDeTexto.Normalizador(texto);
+
+    Console.WriteLine($"Antes:  {texto}");
+    Console.WriteLine($"Depois: {resultado}");
+}
+
