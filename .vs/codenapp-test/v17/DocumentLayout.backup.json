@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VICTOR\\Desktop\\RestauranteReservas\\codenapp-test\\",
+  "WorkspaceRootPath": "C:\\Users\\VICTOR\\source\\repos\\condenapp-test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B9CF49F-DCFA-4590-8696-535E3A97C7F8}|codenapp-test\\codenapp-test.csproj|c:\\users\\victor\\desktop\\restaurantereservas\\codenapp-test\\codenapp-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B9CF49F-DCFA-4590-8696-535E3A97C7F8}|codenapp-test\\codenapp-test.csproj|c:\\users\\victor\\source\\repos\\condenapp-test\\codenapp-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B9CF49F-DCFA-4590-8696-535E3A97C7F8}|codenapp-test\\codenapp-test.csproj|solutionrelative:codenapp-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B9CF49F-DCFA-4590-8696-535E3A97C7F8}|codenapp-test\\codenapp-test.csproj|c:\\users\\victor\\desktop\\restaurantereservas\\codenapp-test\\codenapp-test\\desafios\\desafiopalindromo\\palindromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B9CF49F-DCFA-4590-8696-535E3A97C7F8}|codenapp-test\\codenapp-test.csproj|c:\\users\\victor\\source\\repos\\condenapp-test\\codenapp-test\\desafios\\desafiofibonacci\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9CF49F-DCFA-4590-8696-535E3A97C7F8}|codenapp-test\\codenapp-test.csproj|solutionrelative:codenapp-test\\desafios\\desafiofibonacci\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9CF49F-DCFA-4590-8696-535E3A97C7F8}|codenapp-test\\codenapp-test.csproj|c:\\users\\victor\\source\\repos\\condenapp-test\\codenapp-test\\desafios\\desafiopalindromo\\palindromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B9CF49F-DCFA-4590-8696-535E3A97C7F8}|codenapp-test\\codenapp-test.csproj|solutionrelative:codenapp-test\\desafios\\desafiopalindromo\\palindromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 274,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,12 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\condenapp-test\\codenapp-test\\Desafios\\DesafioFibonacci\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "codenapp-test\\Desafios\\DesafioFibonacci\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\condenapp-test\\codenapp-test\\Desafios\\DesafioFibonacci\\Fibonacci.cs",
+              "RelativeToolTip": "codenapp-test\\Desafios\\DesafioFibonacci\\Fibonacci.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:24:41.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Palindromo.cs",
-              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\RestauranteReservas\\codenapp-test\\codenapp-test\\Desafios\\DesafioPalindromo\\Palindromo.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\condenapp-test\\codenapp-test\\Desafios\\DesafioPalindromo\\Palindromo.cs",
               "RelativeDocumentMoniker": "codenapp-test\\Desafios\\DesafioPalindromo\\Palindromo.cs",
-              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\RestauranteReservas\\codenapp-test\\codenapp-test\\Desafios\\DesafioPalindromo\\Palindromo.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\condenapp-test\\codenapp-test\\Desafios\\DesafioPalindromo\\Palindromo.cs",
               "RelativeToolTip": "codenapp-test\\Desafios\\DesafioPalindromo\\Palindromo.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T16:54:22.452Z",
               "EditorCaption": ""
@@ -49,11 +66,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\RestauranteReservas\\codenapp-test\\codenapp-test\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\condenapp-test\\codenapp-test\\Program.cs",
               "RelativeDocumentMoniker": "codenapp-test\\Program.cs",
-              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\RestauranteReservas\\codenapp-test\\codenapp-test\\Program.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\condenapp-test\\codenapp-test\\Program.cs",
               "RelativeToolTip": "codenapp-test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T16:50:41.712Z",
               "EditorCaption": ""

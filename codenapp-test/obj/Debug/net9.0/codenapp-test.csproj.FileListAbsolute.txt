@@ -1,0 +1,15 @@
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\bin\Debug\net9.0\codenapp-test.exe
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\bin\Debug\net9.0\codenapp-test.deps.json
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\bin\Debug\net9.0\codenapp-test.runtimeconfig.json
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\bin\Debug\net9.0\codenapp-test.dll
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\bin\Debug\net9.0\codenapp-test.pdb
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\codenapp-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\codenapp-test.AssemblyInfoInputs.cache
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\codenapp-test.AssemblyInfo.cs
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\codenapp-test.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\codenapp-test.sourcelink.json
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\codenapp-test.dll
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\refint\codenapp-test.dll
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\codenapp-test.pdb
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\codenapp-test.genruntimeconfig.cache
+C:\Users\VICTOR\source\repos\condenapp-test\codenapp-test\obj\Debug\net9.0\ref\codenapp-test.dll
